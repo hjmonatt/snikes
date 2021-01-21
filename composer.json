@@ -1,0 +1,12 @@
+{
+  "name": "hmonatt/328/hello",
+  "authors": [
+    {
+      "name": "Heather Monatt",
+      "email": "hmonatt@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
